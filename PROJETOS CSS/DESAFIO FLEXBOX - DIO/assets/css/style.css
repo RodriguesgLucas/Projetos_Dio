@@ -1,0 +1,48 @@
+header {
+    width: 1440;
+    height: 56px;
+    border-bottom: 1px solid;
+    background: lightslategray;
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    left: 80px;
+    top: 18px;
+}
+
+.search {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 887px;
+    top: 16px;
+}
+
+#direita {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+
+    
+    width: 130px;
+    height: 34px;
+}
+
+main {
+    background: #F9F9F9;
+    width: 1440px;
+    height: 1024px;
+}
+
+
+
+img #like{
+    width: 63px;
+    height: 24px;
+}
